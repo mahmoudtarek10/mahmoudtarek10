@@ -1,10 +1,5 @@
 # Hi 👋, I'm Mahmoud Tarek
 ### 📊 Data Analyst | Transforming Data into Valuable Insights
-
-<p align="center">
-  <img src="https://media.giphy.com/media/YQitE4YNQNahy/giphy.gif" width="400">
-</p>
-
 ---
 
 ## 👨🏻‍💻 About Me
